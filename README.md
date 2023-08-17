@@ -18,9 +18,9 @@ KHUDA Study for upgrading our Coding skill.
 
 Folder will be like this.
 ```
-├── Hash                        # Algorithm Type 
-├───── Programmers              # Where the question get from
-├──────── Phoneketmon           # Question name or number
+├── Hash                            # Algorithm Type 
+├───── Programmers                  # Where the question get from
+├──────── 1_Phoneketmon_1           # Question name or number(Num_name_level)
 ├── Stack                   
 ├── Queue                     
 ├── Heap                   
